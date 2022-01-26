@@ -1,5 +1,5 @@
 # multiprocessing_code_count
- 带图形界面的多进程代码行统计工具
+ 图形界面的多进程代码行统计工具
 
 实现框架：
 * find_all_file(queue, path, file_type=None)：统计文件个数。
