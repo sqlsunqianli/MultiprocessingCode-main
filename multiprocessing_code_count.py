@@ -134,6 +134,7 @@ def gui(queue, file_type=None):
             l2.configure(text=res)
         # 返回正常结果
         else:
+
             file_count = res[0]
             line_count = res[1]
             annotation_count = res[2]
